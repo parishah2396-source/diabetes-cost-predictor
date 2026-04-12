@@ -2,7 +2,7 @@
 
 > A dual-model ML framework that predicts diabetes risk AND annual healthcare costs in one unified pipeline — with SHAP explainability across both models.
 
-**Live Demo:** [Click here to try the app](https://your-username-diabetes-cost-predictor.streamlit.app)
+**Live Demo:** [Click here to try the app](https://parishah2396-diabetes-cost-predictor.streamlit.app/)
 *(replace this link after you deploy)*
 
 ---
